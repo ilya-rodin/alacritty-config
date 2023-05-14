@@ -1,10 +1,10 @@
 ---
 font:
-  size: 16
+  size: 17
   normal:
     family: FiraCode Nerd Font Mono
 window:
-  opacity: 0.91
+  opacity: 0.93
   padding:
     x: 0
     y: 0
